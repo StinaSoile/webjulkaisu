@@ -1,0 +1,89 @@
+
+
+
+
+mi - ITKP1011-Harjoitustyö
+
+
+
+
+Jyväskylän yliopisto
+Informaatioteknologian tiedekunta
+Tietotekniikan oppiaine
+ITKP1011
+
+ 
+miporttitorvenenatisprointellustempusdonecmollis
+
+mi - Taso 5
+
+Curabitur laoreet magna sit amet magna eleifend ullamcorper at a dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent volutpat id erat sed tincidunt. Mauris condimentum ipsum vel quam pretium malesuada. Suspendisse a purus convallis, bibendum quam ac, varius erat. Proin sagittis lacinia est, eu aliquet nisi. Quisque imperdiet, dui quis cursus viverra, nisi ante sagittis neque, et vulputate neque risus nec massa. Etiam blandit bibendum libero.
+
+Vivamus ultrices orci magna, sit amet semper est sagittis eu. Curabitur tincidunt posuere lorem, eget auctor tellus. In neque ante, egestas vel tempus porttitor, ultricies sed metus. Donec a convallis odio, sit amet faucibus sapien. Etiam sed elementum ipsum. Donec euismod venenatis odio, eget fringilla ipsum consequat non. Nulla ut molestie diam, convallis sollicitudin mauris. Praesent ac eleifend odio, vel mattis est.
+
+			
+				Henkilötiedot 
+				
+					Nimi 
+					
+				
+				
+					Katuosoite 
+					
+				
+				
+					Postinumero 
+					
+				
+				
+					Postitoimipaikka 
+					
+				
+				
+					Sähköpostiosoite
+					
+				
+                Sukupuoli
+				
+					Mies
+					
+					
+					Nainen
+					
+					
+					En kerro
+					
+				
+				
+					Syntymäaika
+					
+				
+				
+				Kengän numero
+				
+				
+                
+                
+                Lisäpalvelut
+					Aamiainen
+					
+					Päivällinen
+					
+					Välipala
+					
+					Iltapala
+					
+					Yöpala 
+                    
+                
+				
+				
+				
+	
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In odio libero, varius quis ante ac, viverra hendrerit elit. Proin facilisis efficitur ex, at aliquam enim iaculis sed. Proin aliquet vel mauris sit amet pretium. Proin varius lacus eget nisi facilisis interdum. Nunc lectus lacus, posuere at ultricies varius, elementum quis nulla. Praesent fringilla facilisis ipsum eget mollis. Nulla finibus vitae odio vel ornare.
+
+Praesent volutpat porttitor massa ac sodales. Vivamus in velit vitae dolor consectetur elementum. Curabitur nec tincidunt mi, nec commodo enim. Praesent eu orci porttitor, pellentesque ipsum sit amet, ultrices nunc. Suspendisse potenti. Aenean dignissim mi metus, vel luctus mi bibendum vel. Nam varius, dui at pretium accumsan, urna nisi ultrices augue, ut ullamcorper arcu tortor lobortis metus. Vivamus ultrices tempor quam, id posuere diam aliquet vitae. Proin rutrum erat in risus pretium, ac vestibulum turpis luctus.
+
+ 
+ITKP1011 Harjoitustyö ©Stina Palomäki
+
