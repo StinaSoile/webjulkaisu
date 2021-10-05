@@ -5,3 +5,23 @@ body {
 .navbardrop {
     background-color: #f4c9e3;
 }
+
+.navbar {
+    background-color: #f4c9e3;
+    width: 15em;
+    height: 15em;
+    border: thick dotted #f6e7f0;
+    float: right;
+}
+
+#galleria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.kuva {
+    padding: 1em;
+    height: 13em;
+    width: auto;
+}
