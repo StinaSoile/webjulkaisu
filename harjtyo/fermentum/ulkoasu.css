@@ -1,5 +1,8 @@
 body {
     font-family: Verdana, sans-serif;
+    padding: 0em;
+    margin: 0em;
+    
 }
 
 .navbardrop {
@@ -45,8 +48,15 @@ body {
     flex-wrap: wrap;
 }
 
-.kuva {
+.img {
     padding: 1em;
+    padding-bottom: 0em;
     height: 13em;
     width: auto;
+}
+
+.fig {
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
 }
