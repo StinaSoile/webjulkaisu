@@ -48,6 +48,14 @@ body {
     background-color: black;
 }
 
+.youtube {
+    /* width="560"; */
+    width: 90vw;
+    /* height="315" */
+    /*50.625% = 90% * 0.5625 = 90% * (315/560) */
+    height: 50.625vw;
+}
+
 #galleria {
     display: flex;
     flex-direction: row;
@@ -79,3 +87,14 @@ body {
 .footer > p {
     padding: 0.5em;
 }
+
+@media all and (max-width: 600px) {
+    body {
+        background-color: bisque;
+        font-size: 1em;
+    }
+
+    .navbar {
+        background-color: blanchedalmond;
+    }
+  }
