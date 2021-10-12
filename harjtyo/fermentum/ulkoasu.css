@@ -5,7 +5,7 @@ body {
 
 }
 
-.navbardrop {
+.navbartop {
     background-color: #f4c9e3;
     height: 2em;
     display: flex;
@@ -14,13 +14,13 @@ body {
     align-items: center;
 }
 
-.navbardrop li {
+.navbartop li {
     list-style: none;
     display: inline-block;
     padding: 0.5em;
 }
 
-.navbardrop ul  {
+.navbartop ul  {
     padding: 0em;
 }
 
