@@ -1,0 +1,23 @@
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/porttitor/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/porttitor/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/venenatis/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/venenatis/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/proin/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/proin/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tellus/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tellus/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/donec/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/donec/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/mollis/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/mollis/index.html; scp /home/stina/kurssit/web_2op/harjtyo/fermentum/ulkoasu.css stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/ulkoasu.css;
+
+ERIKSEEN:
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/porttitor/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/porttitor/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/mi/venenatis/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/mi/venenatis/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/proin/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/proin/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tellus/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tellus/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/donec/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/donec/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/tempus/mollis/index.html stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/tempus/mollis/index.html; 
+
+scp /home/stina/kurssit/web_2op/harjtyo/fermentum/ulkoasu.css stsosupa@jalava.cc.jyu.fi:/nashome1/stsosupa/html/fermentum/ulkoasu.css;

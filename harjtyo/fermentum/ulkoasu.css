@@ -4,44 +4,47 @@ body {
     margin: 0em;
 
 }
+@media all and (min-width: 601px) {
+    .navbartop {
+        background-color: #f4c9e3;
+        height: 2em;
+        display: flex;
+        /* flex-direction: row; */
+        /* justify-content: space-between; */
+        align-items: center;
+    }
 
-.navbartop {
-    background-color: #f4c9e3;
-    height: 2em;
-    display: flex;
-    /* flex-direction: row; */
-    /* justify-content: space-between; */
-    align-items: center;
-}
+    .navbartop li {
+        list-style: none;
+        display: inline-block;
+        padding: 0.5em;
+    }
 
-.navbartop li {
-    list-style: none;
-    display: inline-block;
-    padding: 0.5em;
-}
+    .navbartop ul  {
+        padding: 0em;
+    }
 
-.navbartop ul  {
-    padding: 0em;
-}
+    .navbar {
+        background-color: #f4c9e3;
+        width: 12em;
+        height: 10em;
+        border: thick dotted #f6e7f0;
+        float: right;
+        display: flex;
+        align-items: center;
+        margin: 2em 0.4em;
+    }
 
-.navbar {
-    background-color: #f4c9e3;
-    width: 12em;
-    height: 10em;
-    border: thick dotted #f6e7f0;
-    float: right;
-    display: flex;
-    align-items: center;
-    margin: 1em 0.4em;
-}
+    .navbar > ul {
+        list-style: square;
+        padding-left: 1.5em;
+    }
 
-.navbar > ul {
-    list-style: square;
-    padding-left: 1.5em;
-}
+    .navbar > ul > li > ul {
+        padding-left: 0em;
+        list-style-position: inside;
 
-.navbar > ul > li > ul {
-    padding-left: 1em;
+    }
 }
 
 .taulukko {
@@ -89,12 +92,50 @@ body {
 }
 
 @media all and (max-width: 600px) {
-    body {
-        background-color: bisque;
-        font-size: 1em;
+    .navbartop {
+        background-color: #f4c9e3;
+        width: 46vw;
+        height: 11em;
+        float: left;
+        margin: 1em 0.4em;
+    }
+    
+    .navbartop > ul {
+        list-style: disc;
+        padding-left: 0em;
+        list-style-position: inside;
+    }
+    
+    .navbar {
+        background-color: #f4c9e3;
+        width: 46vw;
+        height: 11em;
+        border: none;
+        float: right;
+        display: flex;
+        align-items: center;
+        margin: 1em 0.4em;
+    }
+    
+    .navbar > ul {
+        list-style: disc;
+        padding-left: 0em;
+        list-style-position: inside;
+    }
+    
+    .navbar > ul > li > ul {
+        padding-left: 1em;
+        list-style-position: inside;
+
     }
 
-    .navbar {
-        background-color: blanchedalmond;
-    }
+  }
+
+  @media print {
+      body {
+          font-family: 'Times New Roman', Times, serif;
+      }
+      .navbar, .navbartop {
+          display: none;
+      }
   }
