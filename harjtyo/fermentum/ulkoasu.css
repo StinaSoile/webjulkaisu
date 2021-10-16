@@ -2,13 +2,13 @@ body {
     font-family: Verdana, sans-serif;
     padding: 0em;
     margin: 0em;
-
 }
 @media all and (min-width: 601px) {
 
     .navbartop {
         background-color: #f4c9e3;
-        height: 2em;
+        height: auto;
+
         display: flex;
         /* flex-direction: row; */
         /* justify-content: space-between; */
@@ -26,18 +26,19 @@ body {
     }
 
     .navbartop ul :first-child {
-        border-style: none;;
+        border-style: none;
     }
 
     .navbartop ul  {
         padding: 0em;
+        margin: 0.5em;
     }
 
     .navbar {
         background-color: #f4c9e3;
-        width: 12em;
-        height: 10em;
-        border: thick dotted #f6e7f0;
+        width: auto;
+        height: auto;
+        border: 0.5em dotted #f6e7f0;
         float: right;
         display: flex;
         align-items: center;
@@ -47,25 +48,51 @@ body {
     .navbar > ul {
         list-style: square;
         padding-left: 1.5em;
+        margin: 0.5em;
+        margin-right: 4em;
     }
 
     .navbar > ul > li > ul {
         padding-left: 0em;
         list-style-position: inside;
+    }
 
+    .mollis-flexbox {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #mollis-nav {
+        border-style: none;
+        margin: 0em;
+        align-items:flex-start;
+    }
+
+    .video {
+        width: calc(100vw - 18em);
     }
 }
+.form {
+    border-width:0em; 
+}
 
-.taulukko {
-    background-color: black;
+.input {
+    width: 8em;
+}
+
+.taulukko, th, td {
+    border: 0.15em dashed #f8e8f1;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 0.245em;
 }
 
 .youtube {
     /* width="560"; */
-    width: 90vw;
+    width: 50vw;
     /* height="315" */
     /*50.625% = 90% * 0.5625 = 90% * (315/560) */
-    height: 50.625vw;
+    height: 28.125vw
 }
 
 #galleria {
@@ -75,8 +102,7 @@ body {
 }
 
 .img {
-    padding: 1em;
-    padding-bottom: 0em;
+    padding: 0em;
     height: 13em;
     width: auto;
 }
@@ -85,6 +111,14 @@ body {
     display: inline-block;
     text-align: center;
     font-weight: bold;
+}
+
+#etusivu1 {
+    margin-top: 2em;
+}
+
+#etusivu1 img {
+    width: 100%;
 }
 
 .footer {
@@ -100,9 +134,7 @@ body {
     padding: 0.5em;
 }
 
-/* .input {
-    width: 10em;
-} */
+
 @media all and (max-width: 600px) {
 
     .flexbox {
@@ -113,8 +145,9 @@ body {
     .navbartop, .navbar {
         background-color: #f4c9e3;
         width: 46vw; 
-        height: 11em;
-        margin: 1em 0.4em;
+        min-height: 11em;
+        padding-bottom: 1em;
+        margin: 0em 0.4em;
     }
     
     .navbartop > ul, .navbar > ul {
@@ -123,10 +156,42 @@ body {
         list-style-position: inside;
         margin-top: 0em;
     }
+
+    .navbartop > ul >li:nth-child(5) {
+        list-style: none;
+        padding-top: 0.5em;
+    }
+
+    .form {
+        padding: 0em;
+    }
+
     
     .navbar > ul > li > ul {
         padding-left: 1em;
         list-style-position: inside;
+    }
+
+    #mollis-nav {
+        float: right;
+    }
+
+    .mollis-flexbox {
+        display: inline-block;
+        max-width: 97.5vw;
+    }
+
+    .video, .youtube {   
+        width: 97.5vw;
+    }
+
+    .youtube {
+        width: 97.5vw;
+        height: 54.84vw;
+    }
+
+    h1 {
+        margin: 0em;
     }
 
   }
